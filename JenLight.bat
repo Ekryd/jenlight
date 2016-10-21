@@ -1,0 +1,2 @@
+java -jar "C:\git\jenlight\target\jenlight-1.0-SNAPSHOT-jar-with-dependencies.jar" "http://l7700676.ws.ams.se:8080/job/Diariet/job/Diariet_CommitStage/rssAll"
+:: java -jar "C:\git\jenlight\target\jenlight-1.0-SNAPSHOT-jar-with-dependencies.jar" "http://l7700676.ws.ams.se:8080/job/Elin/job/ELIN_master/rssAll"
